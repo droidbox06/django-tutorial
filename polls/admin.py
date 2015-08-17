@@ -8,7 +8,6 @@ class ChoiceInline(admin.TabularInline):
     model = Choice
     extra = 5
 
-
 #admin.site.register(Choice)
 #admin.site.register(Question)
 
